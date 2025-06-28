@@ -20,5 +20,5 @@ A Retrieval-Augmented Generation (RAG) system that enables **text and image-base
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<pmpcwin>/multimodal-rag.git
+   git clone https://github.com/user-name/multimodal-rag.git
    cd multimodal-rag
