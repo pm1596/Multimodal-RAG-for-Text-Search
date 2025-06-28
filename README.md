@@ -1,6 +1,6 @@
 # Multimodal-RAG-for-Text-Search
 
-A Retrieval-Augmented Generation (RAG) system that enables **text and image-based search**, combining CLIP embeddings for multimodal retrieval and an LLM (e.g., Llama 2) for answer generation.
+A Retrieval-Augmented Generation (RAG) system that enables **text and image-based search**, combining CLIP embeddings for multimodal retrieval and an LLM for answer generation.
 
 ![Demo](assets/demo.gif)
 
