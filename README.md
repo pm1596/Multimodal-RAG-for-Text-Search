@@ -5,7 +5,7 @@
 
 A Retrieval-Augmented Generation (RAG) system that enables **text and image-based search**, combining CLIP embeddings for multimodal retrieval and an LLM (e.g., Llama 2) for answer generation.
 
-![Demo](assets/demo.gif) *(Replace with a GIF/screenshot of your UI)*
+![Demo](assets/demo.gif)
 
 ## Features ✨
 - **Multimodal Queries**: Search using **text** or **images**.
@@ -23,5 +23,5 @@ A Retrieval-Augmented Generation (RAG) system that enables **text and image-base
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/multimodal-rag.git
+   git clone https://github.com/<pmpcwin>/multimodal-rag.git
    cd multimodal-rag
